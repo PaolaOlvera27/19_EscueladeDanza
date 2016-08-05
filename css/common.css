@@ -1,0 +1,63 @@
+h1 {
+	padding-top: 40px;
+}
+li {
+	text-decoration: none;
+	display: inline-block;
+	padding: 0 1%;
+	font-size: 15px;
+	margin:30px 20px;
+}
+form {
+	width: 550px;
+	background: rgba(0,0,0,.1);
+	padding: 20px 30px;
+	margin: 20px 30px;
+	border-radius: 10px;
+	box-sizing: border-box;
+	display: inline-block;
+}
+h2 {
+	color: #192951;
+	margin: 10px;
+	font-size: 30px;
+}
+input, textarea {
+	width: 100%;
+	padding: 10px;
+	font-size: 14px;
+	margin: 10px;
+}
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+footer {
+	height: 70px;
+	width: 100%;
+}
+#boton {
+	background-color: #192951;
+	color: white;
+	padding: 15px; 
+}
+.floatr {
+	float: right;
+}
+.floatl {
+	float: left;
+}
+.pf {
+	margin: 30px 50px;
+}
+.boton1 {
+	padding: 15px 40px;
+}
+.nboton {
+	border: none;
+}
+.fraseins {
+	font-size: 40px;
+	padding: 120px 0px;
+}

@@ -1,0 +1,34 @@
+#tit {
+	font-size: 25px;
+	margin-top: 70px;
+}
+.fondo {
+	width: 357px;
+	height: 450px;
+	background-position: center;
+	margin: 20px 0px;
+}
+.img1 {
+	background-image: url("../img/dance_12.jpg");
+}
+.img2 {
+	background-image: url("../img/breakdance.jpg");
+}
+.img3 {
+	background-image: url("../img/lirical-jazz.jpg");
+}
+.img4 {	
+	background-image: url("../img/arabe.jpg");
+}
+.img5 {
+	background-image: url("../img/little.jpg");
+}
+.img6 {
+	background-image: url("../img/yoga.jpg");
+}
+.caja {
+	padding: 25px 15px;
+	background: rgba(0,0,0,.3);
+	margin: 180px auto;
+	box-sizing: border-box;
+}
